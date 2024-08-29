@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             name: 'Munjya (2024)',
             languages: ['Hindi'],
-            type: 'Comedy', 'Horror',
+            type: 'Comedy , Horror',
             poster: 'Munjya(2024).jpg',
             screenshots: ['Munjya(2024)_SS1.png', 'Munjya(2024)_SS2.png', 'Munjya(2024)_SS3.png', 'Munjya(2024)_SS4.png', 'Munjya(2024)_SS5.png', 'Munjya(2024)_SS6.png'],
             downloadLinks: {
