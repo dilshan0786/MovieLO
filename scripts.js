@@ -15,6 +15,24 @@ document.addEventListener('DOMContentLoaded', () => {
                 
             },
         },
+
+        {
+            name: 'Munjya (2024)',
+            languages: ['Hindi'],
+            type: 'Comedy', 'Horror',
+            poster: 'Munjya(2024).jpg',
+            screenshots: ['Munjya(2024)_SS1.png', 'Munjya(2024)_SS2.png', 'Munjya(2024)_SS3.png', 'Munjya(2024)_SS4.png', 'Munjya(2024)_SS5.png', 'Munjya(2024)_SS6.png'],
+            downloadLinks: {
+                '480p [400 MB]': 'http://tnlinks.in/8wRsPSeO',
+                '720p [1.1 GB]': 'http://tnlinks.in/PkFw',
+                '1080p [2.5 GB]': 'http://tnlinks.in/roctYh',
+                'HQ 1080p [3.4 GB]': 'http://tnlinks.in/EO5uQd',
+                '4K 2160p [11 GB]': 'http://tnlinks.in/z1vRezVH',
+                
+            },
+        },
+
+        
         {
             name: 'Web Series 1',
             languages: ['Hindi', 'Tamil'],
