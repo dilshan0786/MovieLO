@@ -41,7 +41,7 @@ header input[type="text"] {
     background-color: #000;
     border-radius: 10px;
     overflow: hidden;
-    width: 200px;
+    width: 150px;
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
