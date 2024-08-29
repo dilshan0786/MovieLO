@@ -41,7 +41,7 @@ header input[type="text"] {
     background-color: #000;
     border-radius: 10px;
     overflow: hidden;
-    width: 150px;
+    width: 200px;
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
@@ -203,4 +203,17 @@ header input[type="text"] {
 
 .quality-buttons button:hover {
     background-color: #666;
+}
+
+@media (max-width: 600px){
+.movie-card {
+    background-color: #000;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 150px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2), 0 8px 16px rgba(255, 255, 255, 0.2);
+}
 }
