@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'Kalki 2898-AD (2024)',
             languages: ['Hindi-Multi Audio'],
             type: 'Action',
-            poster: 'Kalki2898AD.png',
+            poster: 'Kalki2898AD.jpg',
             screenshots: ['Kalki2898AD_SS1.png', 'Kalki2898AD_SS2.png', 'Kalki2898AD_SS3.png', 'Kalki2898AD_SS4.png', 'Kalki2898AD_SS5.png', 'Kalki2898AD_SS6.png'],
             downloadLinks: {
                 '480p [600 MB]': 'http://tnlinks.in/AYN8u',
