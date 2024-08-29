@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const movies = [
         {
-            name: 'Kalki 2898-AD <sub>(2024)</sub>',
+            name: 'Kalki 2898-AD (2024)',
             languages: ['Hindi-Multi Audio'],
             type: 'Action',
             poster: 'Kalki2898AD.png',
