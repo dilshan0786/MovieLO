@@ -1,14 +1,18 @@
 document.addEventListener('DOMContentLoaded', () => {
     const movies = [
         {
-            name: 'VENOM',
-            languages: ['English', 'Hindi'],
+            name: 'Kalki 2898-AD <sub>(2024)</sub>',
+            languages: ['Hindi-Multi Audio'],
             type: 'Action',
-            poster: 'spiderman.webp',
-            screenshots: ['ss1.png', 'https://picsum.photos/id/1/200/200'],
+            poster: 'Kalki2898AD.png',
+            screenshots: ['Kalki2898AD_SS1.png', 'Kalki2898AD_SS2.png', 'Kalki2898AD_SS3.png', 'Kalki2898AD_SS4.png', 'Kalki2898AD_SS5.png', 'Kalki2898AD_SS6.png'],
             downloadLinks: {
-                '1080p': 'https://example.com/download1080p',
-                '720p': 'https://example.com/download720p',
+                '480p [600 MB]': 'http://tnlinks.in/AYN8u',
+                '720p [1.7 GB]': 'http://tnlinks.in/1VJil',
+                '1080p [2.2 GB]': 'http://tnlinks.in/AHi5tlJ',
+                'HQ 1080p [5.5 GB]': 'http://tnlinks.in/7iFGy',
+                '4K 2160p [15.4 GB]': 'http://tnlinks.in/EghqNmt',
+                
             },
         },
         {
