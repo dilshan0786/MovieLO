@@ -34,11 +34,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         
         {
-            name: 'Web Series 1',
-            languages: ['Hindi', 'Tamil'],
-            type: 'Drama',
-            poster: 'https://via.placeholder.com/200x300',
-            screenshots: ['https://via.placeholder.com/150', 'https://via.placeholder.com/150'],
+            name: 'Mirzapur Season 1,2 and 3',
+            languages: ['Hindi'],
+            type: 'Crime,Drama',
+            poster: 'Mirzapur.jpg',
+            screenshots: ['Mirzapur_SS3.png', 'Mirzapur_SS4.png', 'Mirzapur_SS1.png', 'Mirzapur_SS2.png', 'Mirzapur_SS5.png', 'Mirzapur_SS6.png'],
             seasons: [
                 {
                     season: 'Season 1',
@@ -46,14 +46,63 @@ document.addEventListener('DOMContentLoaded', () => {
                         {
                             episode: 'Episode 1',
                             downloadLinks: {
-                                '1080p': 'https://example.com/season1ep1-1080p',
-                                '720p': 'https://example.com/season1ep1-720p',
+                                '420p [150 MB]': 'http://tnlinks.in/dP57tbm9',
+                                '720p': '',
                             }
                         },
                         {
                             episode: 'Episode 2',
                             downloadLinks: {
-                                '1080p': 'https://example.com/season1ep2-1080p',
+                                '420p [150 MB]': 'http://tnlinks.in/MOzt6',
+                                '720p': 'https://example.com/season1ep2-720p',
+                            }
+                        },
+                        {
+                            episode: 'Episode 3',
+                            downloadLinks: {
+                                '420p [150 MB]': 'http://tnlinks.in/8J98W4',
+                                '720p': 'https://example.com/season1ep2-720p',
+                            }
+                        },
+                        {
+                            episode: 'Episode 4',
+                            downloadLinks: {
+                                '420p [150 MB]': 'http://tnlinks.in/CdIaPvz',
+                                '720p': 'https://example.com/season1ep2-720p',
+                            }
+                        },
+                        {
+                            episode: 'Episode 5',
+                            downloadLinks: {
+                                '420p [150 MB]': 'http://tnlinks.in/pdYP9Eb',
+                                '720p': 'https://example.com/season1ep2-720p',
+                            }
+                        },
+                        {
+                            episode: 'Episode 6',
+                            downloadLinks: {
+                                '420p [150 MB]': 'http://tnlinks.in/vdsSJ1pr',
+                                '720p': 'https://example.com/season1ep2-720p',
+                            }
+                        },
+                        {
+                            episode: 'Episode 7',
+                            downloadLinks: {
+                                '420p [150 MB]': 'http://tnlinks.in/XoKyT',
+                                '720p': 'https://example.com/season1ep2-720p',
+                            }
+                        },
+                        {
+                            episode: 'Episode 8',
+                            downloadLinks: {
+                                '420p [150 MB]': 'http://tnlinks.in/24FCg',
+                                '720p': 'https://example.com/season1ep2-720p',
+                            }
+                        },
+                        {
+                            episode: 'Episode 9',
+                            downloadLinks: {
+                                '420p [150 MB]': 'http://tnlinks.in/7vR1GGNY',
                                 '720p': 'https://example.com/season1ep2-720p',
                             }
                         },
