@@ -155,7 +155,7 @@ header input[type="text"] {
     display: inline-block;
     margin: 10px 5px;
     padding: 10px 20px;
-    background-color: #555;
+    background-color: #000;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -164,7 +164,7 @@ header input[type="text"] {
 }
 
 #movie-details button:hover {
-    background-color: #777;
+    background-color: #0c9143;
 }
 
 .episode-list {
