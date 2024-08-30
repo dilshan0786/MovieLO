@@ -178,25 +178,34 @@ document.addEventListener('DOMContentLoaded', () => {
                 episodeList.className = 'episode-list';
 
                 season.episodes.forEach(episode => {
-                    const episodeButton = document.createElement('button');
-                    episodeButton.textContent = episode.episode;
+    const episodeButton = document.createElement('button');
+    episodeButton.textContent = episode.episode;
+    
+    // Set a single color for all episode buttons
+    episodeButton.style.backgroundColor = '#007bff'; // Replace with your desired color
+    episodeButton.style.color = 'white'; // Text color
+    episodeButton.style.border = 'none';
+    episodeButton.style.padding = '10px 20px';
+    episodeButton.style.margin = '5px';
+    episodeButton.style.cursor = 'pointer';
+    
+    const qualityButtonsDiv = document.createElement('div');
+    qualityButtonsDiv.className = 'quality-buttons';
 
-                    const qualityButtonsDiv = document.createElement('div');
-                    qualityButtonsDiv.className = 'quality-buttons';
+    Object.keys(episode.downloadLinks).forEach(quality => {
+        const qualityButton = document.createElement('button');
+        qualityButton.textContent = `${quality} Download`;
+        qualityButton.addEventListener('click', (e) => {
+            e.stopPropagation();
+            window.open(episode.downloadLinks[quality], '_blank');
+        });
+        qualityButtonsDiv.appendChild(qualityButton);
+    });
 
-                    Object.keys(episode.downloadLinks).forEach(quality => {
-                        const qualityButton = document.createElement('button');
-                        qualityButton.textContent = `${quality} Download`;
-                        qualityButton.addEventListener('click', (e) => {
-                            e.stopPropagation();
-                            window.open(episode.downloadLinks[quality], '_blank');
-                        });
-                        qualityButtonsDiv.appendChild(qualityButton);
-                    });
+    episodeList.appendChild(episodeButton);
+    episodeList.appendChild(qualityButtonsDiv);
+});
 
-                    episodeList.appendChild(episodeButton);
-                    episodeList.appendChild(qualityButtonsDiv);
-                });
 
                 seasonDiv.appendChild(episodeList);
                 movieDetails.appendChild(seasonDiv);
