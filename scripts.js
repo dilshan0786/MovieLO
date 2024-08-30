@@ -48,6 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             downloadLinks: {
                                 '420p [150 MB]': 'http://tnlinks.in/dP57tbm9',
                                 '720p [400 MB]': 'http://tnlinks.in/b0XCGdH',
+                                '1080p [3 GB]': 'http://tnlinks.in/6vdA'
                             }
                         },
                         {
@@ -55,6 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             downloadLinks: {
                                 '420p [150 MB]': 'http://tnlinks.in/MOzt6',
                                 '720p [400 MB]': 'http://tnlinks.in/a4wka',
+                                '1080p [3 GB]': 'http://tnlinks.in/qdkqfDB8'
                             }
                         },
                         {
@@ -62,6 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             downloadLinks: {
                                 '420p [150 MB]': 'http://tnlinks.in/8J98W4',
                                 '720p [400 MB]': 'http://tnlinks.in/iWV8XsjG',
+                                '1080p [3 GB]': 'http://tnlinks.in/wpGjtGyn'
                             }
                         },
                         {
@@ -69,6 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             downloadLinks: {
                                 '420p [150 MB]': 'http://tnlinks.in/CdIaPvz',
                                 '720p [400 MB]': 'http://tnlinks.in/DuYye',
+                                '1080p [3 GB]': 'http://tnlinks.in/ghDFK'
                             }
                         },
                         {
@@ -76,6 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             downloadLinks: {
                                 '420p [150 MB]': 'http://tnlinks.in/pdYP9Eb',
                                 '720p [400 MB]': 'http://tnlinks.in/EDh74Iq',
+                                '1080p [3 GB]': 'http://tnlinks.in/GcPutXH'
                             }
                         },
                         {
@@ -83,6 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             downloadLinks: {
                                 '420p [150 MB]': 'http://tnlinks.in/vdsSJ1pr',
                                 '720p [400 MB]': 'http://tnlinks.in/PoBA',
+                                '1080p [3 GB]': 'http://tnlinks.in/EO6I3JM'
                             }
                         },
                         {
@@ -90,6 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             downloadLinks: {
                                 '420p [150 MB]': 'http://tnlinks.in/XoKyT',
                                 '720p [400 MB]': 'http://tnlinks.in/W7MEKJ6',
+                                '1080p [3 GB]': 'http://tnlinks.in/kGMVugOO'
                             }
                         },
                         {
@@ -97,6 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             downloadLinks: {
                                 '420p [150 MB]': 'http://tnlinks.in/24FCg',
                                 '720p [400 MB]': 'http://tnlinks.in/lvM7F',
+                                '1080p [3 GB]': 'http://tnlinks.in/qNbV3YQ'
                             }
                         },
                         {
@@ -104,6 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             downloadLinks: {
                                 '420p [150 MB]': 'http://tnlinks.in/7vR1GGNY',
                                 '720p [400 MB]': 'http://tnlinks.in/UyCguRIM',
+                                '1080p [3 GB]': 'http://tnlinks.in/Aclx'
                             }
                         },
                     ]
