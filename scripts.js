@@ -129,6 +129,21 @@ document.addEventListener('DOMContentLoaded', () => {
                         },
                     ]
                 },
+
+                {
+                    season: 'Season 3 with Bonus Episode',
+                    episodes: [
+                        {
+                            episode: 'Bonus Episode',
+                            downloadLinks: {
+                                '480p [100 MB]': 'http://tnlinks.in/rWvVY4',
+                                '720p [250 MB]': 'http://tnlinks.in/GmHr',
+                                '1080p [550 MB]': 'http://tnlinks.in/yrkhLr',
+                                'HQ 1080p [1.2 GB]': 'http://tnlinks.in/TydJFxnv',
+                            }
+                        },
+                    ]
+                },
             ]
         },
     ];
