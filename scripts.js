@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             name: 'Aladdin (2019)',
             languages: ['Hindi-English'],
-            type: 'Action',
+            type: 'Adventure,Fantasy,Romance,Family',
             poster: 'Aladdin(2019).jpg',
             screenshots: ['Aladdin(2019)_SS1.png', 'Aladdin(2019)_SS2.png', 'Aladdin(2019)_SS3.png', 'Aladdin(2019)_SS4.png'],
             downloadLinks: {
