@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
             languages: ['Hindi'],
             type: 'Drama,History',
             poster: 'https://imgur.com/txNUmx2.jpg',
-            screenshots: ['https://imgur.com/TSCclcz.png', 'https://imgur.com/1YRwvJI.png', 'https://imgur.com/eg9LQZu.png', 'https://imgur.com/fICmWNg.png', 'https://imgur.com/KgGqyqz.png', 'https://imgur.com/undefined.png'],
+            screenshots: ['https://imgur.com/TSCclcz.png', 'https://imgur.com/1YRwvJI.png', 'https://imgur.com/eg9LQZu.png', 'https://imgur.com/fICmWNg.png', 'https://imgur.com/KgGqyqz.png', 'https://imgur.com/7iVRzlX.png'],
             downloadLinks: {
                 '480p [500 MB]': 'http://tnlinks.in/nXH4',
                 '720p [1.4 GB]': 'http://tnlinks.in/2Evn2vx',
