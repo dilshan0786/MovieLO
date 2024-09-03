@@ -17,6 +17,22 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 
         {
+            name: 'Aladdin (2019)',
+            languages: ['Hindi-English'],
+            type: 'Action',
+            poster: 'Aladdin(2019).jpg',
+            screenshots: ['Aladdin(2019)_SS1.png', 'Aladdin(2019)_SS2.png', 'Aladdin(2019)_SS3.png', 'Aladdin(2019)_SS4.png'],
+            downloadLinks: {
+                '480p [450 MB]': 'http://tnlinks.in/Bc2WRR54',
+                '720p [1.2 GB]': 'http://tnlinks.in/18pzS08h',
+                '1080p [2.6 GB]': 'http://tnlinks.in/F9VkM',
+                '720p 10Bit HEVC Bluray  [1.46GB]': 'http://tnlinks.in/rbqAW6D',
+                '1080p 10Bit HEVC Bluray [2.89GB]': 'http://tnlinks.in/YGs5',
+                
+            },
+        },
+
+        {
             name: 'Munjya (2024)',
             languages: ['Hindi'],
             type: 'Comedy , Horror',
