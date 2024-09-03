@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'Maharaj (2024)',
             languages: ['Hindi'],
             type: 'Drama,History',
-            poster: 'https://imgur.com/txNUmx2',
-            screenshots: ['https://imgur.com/TSCclcz', 'https://imgur.com/1YRwvJI', 'https://imgur.com/eg9LQZu', 'https://imgur.com/fICmWNg', 'https://imgur.com/KgGqyqz', 'https://imgur.com/undefined'],
+            poster: 'https://imgur.com/txNUmx2.jpg',
+            screenshots: ['https://imgur.com/TSCclcz.png', 'https://imgur.com/1YRwvJI.png', 'https://imgur.com/eg9LQZu.png', 'https://imgur.com/fICmWNg.png', 'https://imgur.com/KgGqyqz.png', 'https://imgur.com/undefined.png'],
             downloadLinks: {
                 '480p [500 MB]': 'http://tnlinks.in/nXH4',
                 '720p [1.4 GB]': 'http://tnlinks.in/2Evn2vx',
