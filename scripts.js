@@ -1,6 +1,21 @@
 document.addEventListener('DOMContentLoaded', () => {
     const movies = [
         {
+            name: 'Maharaj (2024)',
+            languages: ['Hindi'],
+            type: 'Drama,History',
+            poster: 'https://imgur.com/txNUmx2',
+            screenshots: ['https://imgur.com/TSCclcz', 'https://imgur.com/1YRwvJI', 'https://imgur.com/eg9LQZu', 'https://imgur.com/fICmWNg', 'https://imgur.com/KgGqyqz', 'https://imgur.com/undefined'],
+            downloadLinks: {
+                '480p [500 MB]': 'http://tnlinks.in/nXH4',
+                '720p [1.4 GB]': 'http://tnlinks.in/2Evn2vx',
+                '1080p [3.2 GB]': 'http://tnlinks.in/FPF6GKe',
+                '{NF HQ} 1080p [7.3GB]': 'http://tnlinks.in/i94jp',
+                
+            },
+        },
+        
+        {
             name: 'Kalki 2898-AD (2024)',
             languages: ['Hindi-Multi Audio'],
             type: 'Action',
