@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
             languages: ['Hindi-Multi Audio'],
             type: 'Action',
             poster: 'Kalki2898AD.jpg',
-            screenshots: ['Kalki2898AD_SS1.jpg', 'Kalki2898AD_SS2.jpg', 'Kalki2898AD_SS3.jpg', 'Kalki2898AD_SS4.jpg', 'Kalki2898AD_SS5.jpg', 'Kalki2898AD_SS6.png'],
+            screenshots: ['Kalki2898AD_SS1.png', 'Kalki2898AD_SS2.png', 'Kalki2898AD_SS3.png', 'Kalki2898AD_SS4.png', 'Kalki2898AD_SS5.png', 'Kalki2898AD_SS6.png'],
             downloadLinks: {
                 '480p [600 MB]': 'http://tnlinks.in/AYN8u',
                 '720p [1.7 GB]': 'http://tnlinks.in/1VJil',
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
             languages: ['Hindi-English'],
             type: 'Adventure,Fantasy,Romance,Family',
             poster: 'Aladdin(2019).jpg',
-            screenshots: ['Aladdin(2019)_SS1.png', 'Aladdin(2019)_SS2.png', 'Aladdin(2019)_SS3.png', 'Aladdin(2019)_SS4.png'],
+            screenshots: ['Aladdin(2019)_SS1.jpg', 'Aladdin(2019)_SS2.jpg', 'Aladdin(2019)_SS3.jpg', 'Aladdin(2019)_SS4.jpg'],
             downloadLinks: {
                 '480p [450 MB]': 'http://tnlinks.in/Bc2WRR54',
                 '720p [1.2 GB]': 'http://tnlinks.in/18pzS08h',
